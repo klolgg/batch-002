@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: batch002
+  profiles:
+    active: test
